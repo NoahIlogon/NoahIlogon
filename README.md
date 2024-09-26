@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @bibolicous
-- 👀 I’m interested in Python
-- 🌱 I’m currently studying software engineering
-- 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me noahilogon07@gmail.com
+# 🖥️ My Portfolio
 
-<!---
-bibolicous/bibolicous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub portfolio! I'm a passionate Computer Science student with a focus on cybersecurity, programming, and penetration testing.
+
+## 🔧 Skills
+
+- **Languages:**
+  - 🐍 Python
+  - ☕ Java
+  - 💻 C
+  - 🛠️ Assembly (currently learning)
+
+- **Interests:**
+  - 🔐 Cybersecurity
+  - 🔍 Penetration Testing
+  - 🦠 Malware Analysis
+  - 💻 Software Development
+
+## 🌟 Projects
+
+Here are a few projects I've worked on:
+
+
+## 📚 Education
+
+- University of Canterbury — Bachelor of Science in Computer Science
+  - Expected Graduation: 2025
+
+## 📫 Contact Me
+
+Feel free to reach out!
+
+- Email: noah_ilogon@outlook.com.nz
+- LinkedIn: www.linkedin.com/in/noah-ilogon-906113281
+
+
+Thanks for visiting my portfolio! 🚀
