@@ -30,7 +30,7 @@ Here are a few projects I've worked on:
 
 Feel free to reach out!
 
-- Email: noah_ilogon@outlook.com.nz
+- Email: noah.ilogon.nz@gmail.com
 - LinkedIn: www.linkedin.com/in/noah-ilogon-906113281
 
 
